@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="80b379cc-2599-4477-888e-7189914470fe">
+  <name>РасширениеДляЗапускаИБ</name>
+  <synonym>
+    <key>ru</key>
+    <value>Расширение для запуска ИБ</value>
+  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="1397a7f3-4704-4492-a61c-a8b6ce9dcfec"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="b2a4ec76-e124-4075-9f20-4d23d4c7cc90"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="0141386e-637f-4d12-a428-b8a855c356b0"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="6a36f9ba-68e1-4a78-a547-c45216179705"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="7c23df55-d94a-4c7c-85d5-684308e49f1c"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="c8e166bd-1fdc-4cfe-b035-2b33cb06ee1f"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="bce6df4c-cc5a-4189-8e06-27f6608f623f"/>
+  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
+  <namePrefix>ЗапускИБ_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <scriptVariant>Russian</scriptVariant>
+  <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
+  <compatibilityMode>8.3.23</compatibilityMode>
+  <languages uuid="58205877-357e-4f4f-be7b-0568cd5c574e">
+    <name>Русский</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>ru</languageCode>
+  </languages>
+  <commonModules>CommonModule.ЗапускИБ_ОбновлениеИнформационнойБазы</commonModules>
+  <commonModules>CommonModule.ПодсистемыКонфигурацииПереопределяемый</commonModules>
+  <informationRegisters>InformationRegister.ПараметрыРаботыПрограммы</informationRegisters>
+</mdclass:Configuration>
