@@ -82,10 +82,10 @@
     "module-structure-event-regions": {
       "enabled": false
     },
-    "right-update-database-configuration": {
+    "right-start-thick-client": {
       "enabled": false
     },
-    "right-start-thick-client": {
+    "right-update-database-configuration": {
       "enabled": false
     },
     "module-structure-var-in-region": {
@@ -97,13 +97,13 @@
     "right-interactive-open-external-data-processors": {
       "enabled": false
     },
-    "new-color": {
-      "enabled": false
-    },
     "form-item-visible-settings-by-roles": {
       "enabled": false
     },
     "ql-constants-in-binary-operation": {
+      "enabled": false
+    },
+    "new-color": {
       "enabled": false
     },
     "object-module-export-variable": {
@@ -148,10 +148,10 @@
     "right-view-event-log": {
       "enabled": false
     },
-    "form-invalid-item-id": {
+    "notify-description-to-server-procedure": {
       "enabled": false
     },
-    "notify-description-to-server-procedure": {
+    "form-invalid-item-id": {
       "enabled": false
     },
     "mdo-name-length": {
@@ -244,10 +244,10 @@
     "form-list-ref-use-always-flag-disabled": {
       "enabled": false
     },
-    "ql-temp-table-index": {
+    "subsystem-synonym-too-long": {
       "enabled": false
     },
-    "subsystem-synonym-too-long": {
+    "ql-temp-table-index": {
       "enabled": false
     },
     "extension-md-object-prefix": {
@@ -277,10 +277,10 @@
     "doc-comment-parameter-in-description-suggestion": {
       "enabled": false
     },
-    "doc-comment-complex-type-with-link": {
+    "doc-comment-export-function-return-section": {
       "enabled": false
     },
-    "doc-comment-export-function-return-section": {
+    "doc-comment-complex-type-with-link": {
       "enabled": false
     },
     "ql-like-expression-with-field": {
@@ -301,10 +301,10 @@
     "empty-except-statement": {
       "enabled": false
     },
-    "doc-comment-field-name": {
+    "form-module-missing-pragma": {
       "enabled": false
     },
-    "form-module-missing-pragma": {
+    "doc-comment-field-name": {
       "enabled": false
     },
     "doc-comment-field-in-description-suggestion": {
@@ -355,10 +355,10 @@
     "server-execution-safe-mode": {
       "enabled": false
     },
-    "ql-join-to-sub-query": {
+    "form-ql-hub": {
       "enabled": false
     },
-    "form-ql-hub": {
+    "ql-join-to-sub-query": {
       "enabled": false
     },
     "using-isinrole": {
@@ -403,10 +403,10 @@
     "common-module-name-full-access": {
       "enabled": false
     },
-    "unknown-form-parameter-access": {
+    "invocation-parameter-type-intersect": {
       "enabled": false
     },
-    "invocation-parameter-type-intersect": {
+    "unknown-form-parameter-access": {
       "enabled": false
     },
     "md-object-attribute-comment-not-exist": {
@@ -454,10 +454,10 @@
     "document-post-in-privileged-mode": {
       "enabled": false
     },
-    "configuration-standalone-content": {
+    "form-list-field-ref-not-added": {
       "enabled": false
     },
-    "form-list-field-ref-not-added": {
+    "configuration-standalone-content": {
       "enabled": false
     },
     "module-self-reference": {
@@ -469,10 +469,10 @@
     "md-reference-intergrity": {
       "enabled": false
     },
-    "dcs-ql-hub": {
+    "right-save-user-data": {
       "enabled": false
     },
-    "right-save-user-data": {
+    "dcs-ql-hub": {
       "enabled": false
     }
   }
