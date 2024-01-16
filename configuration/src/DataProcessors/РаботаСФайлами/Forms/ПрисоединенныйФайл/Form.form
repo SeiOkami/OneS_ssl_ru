@@ -4643,7 +4643,6 @@
     <event>OnClose</event>
     <name>ПриЗакрытии</name>
   </handlers>
-  <saveWindowSettings>true</saveWindowSettings>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
   <allowFormCustomize>true</allowFormCustomize>

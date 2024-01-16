@@ -7386,7 +7386,6 @@
   </handlers>
   <excludedCommands>ReportSettings</excludedCommands>
   <autoSaveDataInSettings>Use</autoSaveDataInSettings>
-  <saveWindowSettings>true</saveWindowSettings>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
   <allowFormCustomize>true</allowFormCustomize>

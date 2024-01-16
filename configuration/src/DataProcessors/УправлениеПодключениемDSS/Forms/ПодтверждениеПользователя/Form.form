@@ -741,7 +741,6 @@
     <name>ПриСозданииНаСервере</name>
   </handlers>
   <windowOpeningMode>LockOwnerWindow</windowOpeningMode>
-  <saveWindowSettings>true</saveWindowSettings>
   <group>Vertical</group>
   <enabled>true</enabled>
   <verticalScroll>UseIfNecessary</verticalScroll>
