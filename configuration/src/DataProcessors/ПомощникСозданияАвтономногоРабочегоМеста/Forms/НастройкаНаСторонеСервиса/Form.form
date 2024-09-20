@@ -305,7 +305,7 @@
             </userVisible>
             <autoFill>true</autoFill>
           </contextMenu>
-          <source>РасширенияИзменяющиеСтруктуруДанныхСтрокаПоиска</source>
+          <source>РасширенияИзменяющиеСтруктуруДанных</source>
           <extInfo xsi:type="form:SearchStringAdditionExtInfo">
             <autoMaxWidth>true</autoMaxWidth>
           </extInfo>
@@ -344,7 +344,7 @@
             <autoFill>true</autoFill>
           </contextMenu>
           <type>ViewStatusAddition</type>
-          <source>РасширенияИзменяющиеСтруктуруДанныхСостояниеПросмотра</source>
+          <source>РасширенияИзменяющиеСтруктуруДанных</source>
           <extInfo xsi:type="form:ViewStatusAdditionExtInfo">
             <autoMaxWidth>true</autoMaxWidth>
           </extInfo>
@@ -383,7 +383,7 @@
             <autoFill>true</autoFill>
           </contextMenu>
           <type>SearchControlAddition</type>
-          <source>РасширенияИзменяющиеСтруктуруДанныхУправлениеПоиском</source>
+          <source>РасширенияИзменяющиеСтруктуруДанных</source>
           <extInfo xsi:type="form:SearchControlAdditionExtInfo">
             <autoMaxWidth>true</autoMaxWidth>
           </extInfo>
@@ -1174,7 +1174,7 @@
                 </userVisible>
                 <autoFill>true</autoFill>
               </contextMenu>
-              <source>ПользователиСинхронизацииСтрокаПоиска</source>
+              <source>ПользователиСинхронизации</source>
               <extInfo xsi:type="form:SearchStringAdditionExtInfo">
                 <autoMaxWidth>true</autoMaxWidth>
               </extInfo>
@@ -1213,7 +1213,7 @@
                 <autoFill>true</autoFill>
               </contextMenu>
               <type>ViewStatusAddition</type>
-              <source>ПользователиСинхронизацииСостояниеПросмотра</source>
+              <source>ПользователиСинхронизации</source>
               <extInfo xsi:type="form:ViewStatusAdditionExtInfo">
                 <autoMaxWidth>true</autoMaxWidth>
               </extInfo>
@@ -1252,7 +1252,7 @@
                 <autoFill>true</autoFill>
               </contextMenu>
               <type>SearchControlAddition</type>
-              <source>ПользователиСинхронизацииУправлениеПоиском</source>
+              <source>ПользователиСинхронизации</source>
               <extInfo xsi:type="form:SearchControlAdditionExtInfo">
                 <autoMaxWidth>true</autoMaxWidth>
               </extInfo>

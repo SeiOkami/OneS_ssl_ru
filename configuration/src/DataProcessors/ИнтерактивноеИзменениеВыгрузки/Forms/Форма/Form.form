@@ -450,7 +450,7 @@
         </userVisible>
         <autoFill>true</autoFill>
       </contextMenu>
-      <source>ДополнительнаяРегистрацияСтрокаПоиска</source>
+      <source>ДополнительнаяРегистрация</source>
       <extInfo xsi:type="form:SearchStringAdditionExtInfo">
         <autoMaxWidth>true</autoMaxWidth>
       </extInfo>
@@ -489,7 +489,7 @@
         <autoFill>true</autoFill>
       </contextMenu>
       <type>ViewStatusAddition</type>
-      <source>ДополнительнаяРегистрацияСостояниеПросмотра</source>
+      <source>ДополнительнаяРегистрация</source>
       <extInfo xsi:type="form:ViewStatusAdditionExtInfo">
         <autoMaxWidth>true</autoMaxWidth>
       </extInfo>
@@ -528,7 +528,7 @@
         <autoFill>true</autoFill>
       </contextMenu>
       <type>SearchControlAddition</type>
-      <source>ДополнительнаяРегистрацияУправлениеПоиском</source>
+      <source>ДополнительнаяРегистрация</source>
       <extInfo xsi:type="form:SearchControlAdditionExtInfo">
         <autoMaxWidth>true</autoMaxWidth>
       </extInfo>

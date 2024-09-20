@@ -3694,7 +3694,7 @@
               </userVisible>
               <autoFill>true</autoFill>
             </contextMenu>
-            <source>ЭлектронныеПодписиСтрокаПоиска</source>
+            <source>ЭлектронныеПодписи</source>
             <extInfo xsi:type="form:SearchStringAdditionExtInfo">
               <autoMaxWidth>true</autoMaxWidth>
             </extInfo>
@@ -3743,7 +3743,7 @@
             </userVisible>
             <autoFill>true</autoFill>
           </contextMenu>
-          <source>ЭлектронныеПодписиСтрокаПоиска</source>
+          <source>ЭлектронныеПодписи</source>
           <extInfo xsi:type="form:SearchStringAdditionExtInfo">
             <autoMaxWidth>true</autoMaxWidth>
           </extInfo>
@@ -3782,7 +3782,7 @@
             <autoFill>true</autoFill>
           </contextMenu>
           <type>ViewStatusAddition</type>
-          <source>ЭлектронныеПодписиСостояниеПросмотра</source>
+          <source>ЭлектронныеПодписи</source>
           <extInfo xsi:type="form:ViewStatusAdditionExtInfo">
             <autoMaxWidth>true</autoMaxWidth>
           </extInfo>
@@ -3821,7 +3821,7 @@
             <autoFill>true</autoFill>
           </contextMenu>
           <type>SearchControlAddition</type>
-          <source>ЭлектронныеПодписиУправлениеПоиском</source>
+          <source>ЭлектронныеПодписи</source>
           <extInfo xsi:type="form:SearchControlAdditionExtInfo">
             <autoMaxWidth>true</autoMaxWidth>
           </extInfo>
@@ -4101,7 +4101,7 @@
               </userVisible>
               <autoFill>true</autoFill>
             </contextMenu>
-            <source>СертификатыШифрованияСтрокаПоиска</source>
+            <source>СертификатыШифрования</source>
             <extInfo xsi:type="form:SearchStringAdditionExtInfo">
               <autoMaxWidth>true</autoMaxWidth>
             </extInfo>
@@ -4150,7 +4150,7 @@
             </userVisible>
             <autoFill>true</autoFill>
           </contextMenu>
-          <source>СертификатыШифрованияСтрокаПоиска</source>
+          <source>СертификатыШифрования</source>
           <extInfo xsi:type="form:SearchStringAdditionExtInfo">
             <autoMaxWidth>true</autoMaxWidth>
           </extInfo>
@@ -4189,7 +4189,7 @@
             <autoFill>true</autoFill>
           </contextMenu>
           <type>ViewStatusAddition</type>
-          <source>СертификатыШифрованияСостояниеПросмотра</source>
+          <source>СертификатыШифрования</source>
           <extInfo xsi:type="form:ViewStatusAdditionExtInfo">
             <autoMaxWidth>true</autoMaxWidth>
           </extInfo>
@@ -4228,7 +4228,7 @@
             <autoFill>true</autoFill>
           </contextMenu>
           <type>SearchControlAddition</type>
-          <source>СертификатыШифрованияУправлениеПоиском</source>
+          <source>СертификатыШифрования</source>
           <extInfo xsi:type="form:SearchControlAdditionExtInfo">
             <autoMaxWidth>true</autoMaxWidth>
           </extInfo>

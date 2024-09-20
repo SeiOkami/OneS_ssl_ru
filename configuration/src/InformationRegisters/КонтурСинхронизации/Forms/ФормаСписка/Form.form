@@ -310,7 +310,7 @@
         </userVisible>
         <autoFill>true</autoFill>
       </contextMenu>
-      <source>КонтурСтрокаПоиска</source>
+      <source>Контур</source>
       <extInfo xsi:type="form:SearchStringAdditionExtInfo">
         <autoMaxWidth>true</autoMaxWidth>
       </extInfo>
@@ -349,7 +349,7 @@
         <autoFill>true</autoFill>
       </contextMenu>
       <type>ViewStatusAddition</type>
-      <source>КонтурСостояниеПросмотра</source>
+      <source>Контур</source>
       <extInfo xsi:type="form:ViewStatusAdditionExtInfo">
         <autoMaxWidth>true</autoMaxWidth>
       </extInfo>
@@ -388,7 +388,7 @@
         <autoFill>true</autoFill>
       </contextMenu>
       <type>SearchControlAddition</type>
-      <source>КонтурУправлениеПоиском</source>
+      <source>Контур</source>
       <extInfo xsi:type="form:SearchControlAdditionExtInfo">
         <autoMaxWidth>true</autoMaxWidth>
       </extInfo>

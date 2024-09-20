@@ -362,7 +362,7 @@
           </userVisible>
           <autoFill>true</autoFill>
         </contextMenu>
-        <source>ТаблицаПодписейСтрокаПоиска</source>
+        <source>ТаблицаПодписей</source>
         <extInfo xsi:type="form:SearchStringAdditionExtInfo">
           <autoMaxWidth>true</autoMaxWidth>
         </extInfo>
@@ -401,7 +401,7 @@
           <autoFill>true</autoFill>
         </contextMenu>
         <type>ViewStatusAddition</type>
-        <source>ТаблицаПодписейСостояниеПросмотра</source>
+        <source>ТаблицаПодписей</source>
         <extInfo xsi:type="form:ViewStatusAdditionExtInfo">
           <autoMaxWidth>true</autoMaxWidth>
         </extInfo>
@@ -440,7 +440,7 @@
           <autoFill>true</autoFill>
         </contextMenu>
         <type>SearchControlAddition</type>
-        <source>ТаблицаПодписейУправлениеПоиском</source>
+        <source>ТаблицаПодписей</source>
         <extInfo xsi:type="form:SearchControlAdditionExtInfo">
           <autoMaxWidth>true</autoMaxWidth>
         </extInfo>

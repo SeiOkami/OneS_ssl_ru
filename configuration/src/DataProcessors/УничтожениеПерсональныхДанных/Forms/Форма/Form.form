@@ -693,7 +693,7 @@
               </userVisible>
               <autoFill>true</autoFill>
             </contextMenu>
-            <source>СрокиХраненияСтрокаПоиска</source>
+            <source>СрокиХранения</source>
             <extInfo xsi:type="form:SearchStringAdditionExtInfo">
               <autoMaxWidth>true</autoMaxWidth>
             </extInfo>
@@ -732,7 +732,7 @@
               <autoFill>true</autoFill>
             </contextMenu>
             <type>ViewStatusAddition</type>
-            <source>СрокиХраненияСостояниеПросмотра</source>
+            <source>СрокиХранения</source>
             <extInfo xsi:type="form:ViewStatusAdditionExtInfo">
               <autoMaxWidth>true</autoMaxWidth>
             </extInfo>
@@ -771,7 +771,7 @@
               <autoFill>true</autoFill>
             </contextMenu>
             <type>SearchControlAddition</type>
-            <source>СрокиХраненияУправлениеПоиском</source>
+            <source>СрокиХранения</source>
             <extInfo xsi:type="form:SearchControlAdditionExtInfo">
               <autoMaxWidth>true</autoMaxWidth>
             </extInfo>
@@ -1625,7 +1625,7 @@
                   </userVisible>
                   <autoFill>true</autoFill>
                 </contextMenu>
-                <source>АктыОбУничтоженииСтрокаПоиска</source>
+                <source>АктыОбУничтожении</source>
                 <extInfo xsi:type="form:SearchStringAdditionExtInfo">
                   <autoMaxWidth>true</autoMaxWidth>
                 </extInfo>
@@ -1664,7 +1664,7 @@
                   <autoFill>true</autoFill>
                 </contextMenu>
                 <type>ViewStatusAddition</type>
-                <source>АктыОбУничтоженииСостояниеПросмотра</source>
+                <source>АктыОбУничтожении</source>
                 <extInfo xsi:type="form:ViewStatusAdditionExtInfo">
                   <autoMaxWidth>true</autoMaxWidth>
                 </extInfo>
@@ -1703,7 +1703,7 @@
                   <autoFill>true</autoFill>
                 </contextMenu>
                 <type>SearchControlAddition</type>
-                <source>АктыОбУничтоженииУправлениеПоиском</source>
+                <source>АктыОбУничтожении</source>
                 <extInfo xsi:type="form:SearchControlAdditionExtInfo">
                   <autoMaxWidth>true</autoMaxWidth>
                 </extInfo>
