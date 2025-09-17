@@ -12,6 +12,7 @@
   <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="f5e217bb-5abb-48f9-8465-f82de35e5c98"/>
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="e8b6e58f-5a7f-427a-9096-2353acfae37c"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="441e6172-f948-4697-bfbf-d9ef30c8c48b"/>
+  <configurationExtensionCompatibilityMode>8.3.27</configurationExtensionCompatibilityMode>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
@@ -62,6 +63,14 @@
       <value>Русский</value>
     </synonym>
     <languageCode>ru</languageCode>
+  </languages>
+  <languages uuid="f463396b-e1a8-4586-8d64-df5abc908f41">
+    <name>English</name>
+    <synonym>
+      <key>en</key>
+      <value>English</value>
+    </synonym>
+    <languageCode>en</languageCode>
   </languages>
   <subsystems>Subsystem.Администрирование</subsystems>
   <subsystems>Subsystem.ПодключаемыеОтчетыИОбработки</subsystems>
